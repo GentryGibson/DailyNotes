@@ -2,7 +2,7 @@
 This is the Daily Notes setup that I use on my personal vault.
 
 ## How to Download
----
+
 1. Click on the [Releases section](https://github.com/GentryGibson/DailyNotes/releases) on the right corner.
 2. Click the **DailyNotes.zip** file to download it to your computer.
 3. Unzip the file.
