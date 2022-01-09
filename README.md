@@ -1,4 +1,5 @@
 # Daily Notes
+<img src="https://i.postimg.cc/ydCx2Wd2/Sample-Vault.png" alt="Daily Notes Sample Vault" width="500"> <br>
 This is the Daily Notes setup that I use on my personal vault. Check out the [comprehensive guide](https://thebuccaneersbounty.wordpress.com/2022/01/05/how-i-use-the-daily-notes-plugin-a-comprehensive-guide/) for a walkthrough on how to use this vault in Obsidian.
 
 ## How to Download
