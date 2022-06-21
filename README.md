@@ -17,3 +17,7 @@ This is the Daily Notes setup that I use on my personal vault. Check out the [co
 - mnvwvnm: [Code for adding inline values in Dataview and in a note.](https://forum.obsidian.md/t/reverse-block-reference-possible/22445/4)
 - Eleanor Konik: [Basis of the Reading Log in the Daily Notes template.](https://forum.obsidian.md/t/a-template-for-daily-notes/15619)
 - Moonbase59: [DataviewJS code for the Daily Notes previous/next navigation links](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/21?u=gibson.)
+
+If you found this helpful, consider supporting me on Ko-fi!
+<br> <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X8DBHQW)
