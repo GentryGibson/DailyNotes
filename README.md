@@ -2,6 +2,8 @@
 <img src="https://i.postimg.cc/ydCx2Wd2/Sample-Vault.png" alt="Daily Notes Sample Vault" width="500"> <br>
 This is the Daily Notes setup that I use on my personal vault. Check out the [comprehensive guide](https://thebuccaneersbounty.wordpress.com/2022/01/05/how-i-use-the-daily-notes-plugin-a-comprehensive-guide/) for a walkthrough on how to use this vault in Obsidian.
 
+Edit (06/16/2024): Refer to this [Github link](https://github.com/GentryGibson/DailyNotes/blob/main/How%20I%20Use%20the%20Daily%20Notes%20Plugin.md) for the comprehensive guide
+
 ## How to Download
 
 1. Click on the [Releases section](https://github.com/GentryGibson/DailyNotes/releases) on the right corner.
