@@ -86,7 +86,9 @@ I use nested tags to categorize each task whether it's a task related to this va
 **Happenings** is where I note down any accomplishments or noteworthy events that happened. You can also use signifiers here like in the New Discovery header to denote a specific event. Each entry has the ``LifeEvent::`` inline field.
 ``- LifeEvent:: Dentist appointment today. ``
 
-If you are journaling, use ``<br>``  at the end of each paragraph so that they don't break when displayed in the ``00 Ships Log`` log note. Here is an example:
+If you are journaling, use ``<br>``  at the end of each paragraph so that they don't break when displayed in the ``00 Ships Log`` log note. 
+
+Here is an example:
 ``- LifeEvent:: I went to the bookstore today and saw a lot of new titles. I bought How to Take Smart Notes and a bunch of manga. <br> I saw a cat on the way home. It is very cute. ``
 
 When displayed in the ``00 Ships Log`` log note, Dataview will add a line break in between the two paragraphs. 
